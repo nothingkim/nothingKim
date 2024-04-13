@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 <center>
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarn0nbh.php"></a>
 </center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iezj0bjGpAE?si=AkIoFsc0M1BsP1vM&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
