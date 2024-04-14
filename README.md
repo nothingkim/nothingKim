@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=nothingkim&color=green)
+## HI! I am Nothingkim 
+![](https://komarev.com/ghpvc/?username=nothingkim&color=ff69b4)
+- ❤️ I'm intersted in Full Stack Web develop, V2X, Amateur Radio, Satellite communication, Security, Database admin and Data Science 
+- 🌱 I’m currently senior in Chungbuk National University
+- 💬 I can speak Korean, English, Japanese
 
-
+## Contact me :
+<a href="https://www.youtube.com/@nothingkim" target="_blank"> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.qrz.com/db/DS3QOD" target="_blank"> <img src="https://cdn-bio.qrz.com/z/lu2dgz/qrz_logo.jpg?p=34162b4aed11781f2a1bc153d1b5ab3b" width = "100px" background="white">
