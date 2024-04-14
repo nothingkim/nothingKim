@@ -58,7 +58,6 @@ Database <br>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="DBeaver" src ="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white"/>
 <img alt="SAP" src ="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white"/>
-
 <br><br>
 Cloud Servers <br>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
