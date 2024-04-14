@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h2>Hi there👋</h2>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7B3D9&random=false&width=200&lines=I'm+NothingKim;CQ+CQ+DE+DS3QOD;%E7%A7%81%E3%81%AF%E3%82%B8%E3%83%A7%E3%82%A4%E3%81%A7%E3%81%99;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B9%80%EC%A3%BC%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a> <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7B3D9&random=false&width=200&lines=I'm+NothingKim;CQ+CQ+DE+DS3QOD;%E7%A7%81%E3%81%AF%E3%82%B8%E3%83%A7%E3%82%A4%E3%81%A7%E3%81%99;%EC%A0%80%EB%8A%94+%EA%B9%80%EC%A3%BC%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a> <br>
     <img src="https://komarev.com/ghpvc/?username=nothingkim&color=ff69b4" alt="Profile views">
 
 </div>
