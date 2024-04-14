@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.qrz.com/db/DS3QOD" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmiHzXmhrfKnU6NeB72MDgpTu6Zl8qGdUDtLanIqaYOQ&s" width="40px"></a>
 <a href="https://www.instagram.com/studywithjoi" target="_blank"> <img src="https://github.com/nothingkim/nothingKim/assets/101862281/765cf60f-aa48-44aa-84aa-7a21a995442b" width="40px"></a>
 <a href="https://velog.io/@nothingkim" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8_400x400.jpg" width="40px"></a>
+<a href="mailto:rkswkdwhtjs@naver.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2HxM4J-c6Ujxt36urxblzlnH8eQCcevVCA&s" width="40px"></a>
 
 
 ## Languages and Tools:
