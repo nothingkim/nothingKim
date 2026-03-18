@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 </div>
 
-- ❤️ I'm interested in Web Development, V2X, Amateur Radio, Satellite Communication, Security, Database Admin, and Data Science 
-- 🌱 I’m currently a senior at Chungbuk National University
-- 💬 I can speak Korean, English, Japanese
+- ❤️ I'm interested in Web Development, V2X, Satellite Communication, Security
+- 🌱 I graduated from Chungbuk National University
+- 💬 I can speak Korean, English, Japanese and Chinese
 
 <div align="center">
   
